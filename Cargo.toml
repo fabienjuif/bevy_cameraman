@@ -2,6 +2,8 @@
 name = "bevy_cameraman"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "2D camera for bevy"
 
 [dependencies]
 bevy = "0.12.0"
