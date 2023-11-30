@@ -3,7 +3,10 @@ name = "bevy_cameraman"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
+repository = "https://github.com/fabienjuif/bevy_cameraman"
+keywords = ["bevy", "camera"]
 description = "2D camera for bevy"
+rust-version = "1.73.0"
 
 [dependencies]
 bevy = "0.12.0"
